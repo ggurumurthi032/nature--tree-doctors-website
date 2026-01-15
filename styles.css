@@ -4,7 +4,7 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background: linear-gradient(135deg, #4CAF50, #81C784, #A5D6A7);
+    background: linear-gradient(135deg, #6ce37e, #65e395, #9be487);
     color: #333;
     min-height: 100vh;
     display: flex;
@@ -39,7 +39,7 @@ nav a {
 }
 
 nav a:hover {
-    background: #4CAF50;
+    background: #3836c0;
 }
 
 main {
@@ -62,7 +62,7 @@ main {
 .hero h2 {
     font-size: 3rem;
     margin-bottom: 1rem;
-    color: #4CAF50;
+    color: rgb(34, 184, 198);
 }
 
 .hero p {
@@ -71,7 +71,7 @@ main {
 }
 
 .btn {
-    background: #4CAF50;
+    background: #4c59af;
     color: white;
     padding: 1rem 2rem;
     text-decoration: none;
@@ -81,7 +81,7 @@ main {
 }
 
 .btn:hover {
-    background: #45a049;
+    background: #d243b1;
     transform: scale(1.05);
 }
 
@@ -104,7 +104,7 @@ main {
 
 .login-form h2 {
     text-align: center;
-    color: #4CAF50;
+    color: #b43070;
 }
 
 form {
@@ -136,7 +136,7 @@ button[type="submit"] {
 }
 
 button[type="submit"]:hover {
-    background: #45a049;
+    background: #7245a0;
 }
 
 #message {
@@ -146,7 +146,7 @@ button[type="submit"]:hover {
 }
 
 .doctors-list {
-    background: rgba(255, 255, 255, 0.9);
+    background: rgba(118, 94, 94, 0.9);
     padding: 2rem;
     border-radius: 10px;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
@@ -154,7 +154,7 @@ button[type="submit"]:hover {
 
 .doctors-list h2 {
     text-align: center;
-    color: #4CAF50;
+    color: #ff207d;
     margin-bottom: 2rem;
 }
 
@@ -183,7 +183,7 @@ button[type="submit"]:hover {
 
 .doctor-card h3 {
     margin: 0 0 0.5rem 0;
-    color: #4CAF50;
+    color: #f71b1b;
 }
 
 .doctor-card p {
@@ -192,7 +192,7 @@ button[type="submit"]:hover {
 
 footer {
     background: rgba(0, 0, 0, 0.8);
-    color: white;
+    color: rgb(208, 64, 64);
     text-align: center;
     padding: 1rem;
     margin-top: auto;
